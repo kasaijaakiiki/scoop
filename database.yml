@@ -1,0 +1,30 @@
+users:
+  kasaijaakiiki@gmail.com:
+    username: kasaijaakiiki@gmail.com
+    articleIds:
+      - 1
+    commentIds:
+      - 1
+articles:
+  '1':
+    id: 1
+    title: Hello Atwooki
+    url: Hello My Lovely Munchkin
+    username: kasaijaakiiki@gmail.com
+    commentIds:
+      - 1
+    upvotedBy:
+      - kasaijaakiiki@gmail.com
+    downvotedBy: []
+    comments:
+      - &ref_0
+        id: 1
+        body: I love you Atwooki
+        username: kasaijaakiiki@gmail.com
+        articleId: 1
+        upvotedBy: []
+        downvotedBy: []
+nextArticleId: 2
+comments:
+  '1': *ref_0
+nextCommentId: 2
