@@ -15,7 +15,7 @@ Requirements: git, node, and npm
 
 In Terminal:
 
-git clone https://github.com/kasaijaivan/scoop-codecademy.git
+git clone https://github.com/kasaijaivan/scoop.git
 cd scoop-codecademy
 node server.js
 Open index.html in web browser
