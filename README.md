@@ -17,7 +17,7 @@ The Scoop allows users to:
 _Requirements: git, node, and npm_
 
 In Terminal:
-- git clone [https://github.com/kasaijaivan/scoop-codecademy.git](https://github.com/kasaijaivan/scoop-codecademy.git)
+- git clone [https://github.com/kasaijaivan/scoop.git](https://github.com/kasaijaivan/scoop.git)
 - cd scoop-codecademy
 - node server.js
 
